@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/mzabriskie/react-draggable",
   "peerDependencies": {
-    "react": "^0.11.1"
+    "react": "^0.12.1"
   },
   "devDependencies": {
     "jsx-loader": "^0.11.0",
